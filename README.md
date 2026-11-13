@@ -8,6 +8,8 @@ Hi i am Harshit and i am a teen who loves to code i have been coding since age 1
 
 * **what it is:** so i recently came across a anime the goated anime **One piece** and I found the den den mushi (transponder snail) very appealing so i decided to build one for me the cute little snail with my very own touch i added custom finishes like Luffys's straw hat(mugiwara) and straw hat pirate flag and stuff
 
+* **How it works:** According to me it works using bluetooth connectivity you connect it to your phone and start typing the phone number and the moment you hit the ***`10th digit`*** it calls the number.
+
 * **what's the purpose:** The purpose is to enjoy the anime while having a piece of anime for our own
 
 * **Why it exists:** I watched a reel of a creator making a transponder snail for themself which gave me the idea to make one for myself also.
